@@ -1,4 +1,4 @@
-# Fork this repo for create your own web CV. ([Example](https://cv.annndruha.space/))
+# Fork this repo for create your own web CV. ([Example](https://HCL-271.github.io/))
 Launch your resume site without server on github pages! Optional need a domain name.
 
 # Configuration
