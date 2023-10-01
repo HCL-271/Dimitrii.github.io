@@ -1,44 +1,50 @@
-<a style="display:none;">Andrey Marakulin CV</a>
+<a style="display:none;">Kovrizhnukh Dmitrii CV</a>
 
 
-# <a id="works" href="#works">👨🏻‍💻 Work experience</a>
+# <a id="works" href="#works">👨🏻‍💻 Work experience 3 years</a>
+* ### Junior analyst and Data Scientist
+   * Cентябрь 2022 ‑ Настоящее время
+   * КонсультантПлюс
+ 
+NLP, решение задачи классификации, обобщения и генерации текстов. 
 
-* ### Teacher of neural networks courses
+Модификация алгоритмов поиска и сортировки текстов, а также оценка метрик точности, полноты и более комплексных метрик
+оценки. 
 
-    *2020-2022 Lomonosov Moscow State University*
+Уменьшение числа ошибок классификации файлов. Поддержка внутреннего сервиса для оценки моделей, использования и фильтрации по различным банкам документов.
 
-    I teach a one-year Neural Networks course for postgraduate MSU students. [The course](https://msu.ai) covers a wide range of neural networks types, deals with solving various problems. In the second part of the course, students did implemented neural networks in their scientific work under my guidance
 
-* ### Deep Learning Engineer, Python developer
+* ### Junior Python developer
+   * Август 2021 ‑ Август 2023, Part‑time
+   * PrintBox (Самозанятый)
 
-    *2020-2022 [Center of Engineering Physics](https://engineering.phys.msu.ru/ru/) at Lomonosov Moscow State University*
+Поддержка работоспособности принтеров на территории кампуса, механизмов оповещения и работы сервера. 
 
-    Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. My responsibilities are write Python code, modules, fix bugs, working on architecture and use deep neural networks for electronic components recognition.
+Добавление функционала сканирования, уменьшение времени передачи больших файлов и уменьшение числа отказов из‑за
+загруженности
 
-* ### DL-engineer
+* ### Data Engineer
+   * Октябрь 2020 ‑ Maрт 2022, Part‑time
+   * Acronis (Кафедра МФТИ)
 
-    *2023 Moscow Institute of Physics and Technology*
 
-    For a short time I worked in a [laboratory](https://mipt.ru/rse) engaged in the analysis of echolocation images. My main task was to process data and apply object detection models such as YOLO.
+Нахождение гипер‑параметров для кластеризации хэш‑сумм файлов, вычисление метрик эффективности (в основном True Positive)
+а также оценка времени кластеризации файлов при различных параметрах.
 
-* ### Ideological inspirer of the faculty application
-
-    *2021-present MSU Faculty of Physics*
-
-    With friends, created a community of volunteer programmers of MSU Faculty of Physics. With team we developed [PWA application](https://app.profcomff.com/apps) for students and teachers of the faculty, which is used by almost the entire faculty. The application consists of many modules covering a large stack of technologies like: databases, servers, APIs, auth, frontend, backend, analytics.
+Найдены параметры кластеризации, пропускавшие один вредоносный файл на $10^6$ чистых. Оценка метрик по различным параметрам зараженных файлов и их обнаружения в зависимости от классификатора и баз вирусов
 
 # <a id="education" href="#education">🎓 Education</a>
 
-* ### Lomonosov Moscow State University
-    (2018-2022, Moscow) Faculty of Physics, department of particles physics
-
-* ### Moscow Institute of Physics and Technology
-    (2022-2024, Moscow) Applied Mathematics and Computer Science, Department of Technologies of Digital Transformation
+* ### Московский Физико‑Технический Институт (Бакалавриат)
+    (2019-2023, Moscow) Факультет управления и прикладной математики (ФПМИ ПМФ)
+  
+* ### Московский Физико‑Технический Институт (Магистратура)
+    (2023-2025, Moscow) Физтех-школа прикладных математики и информатики ”Облачные технологии” АТП
 
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
 * ### Primary stack: 
-    Python, ML/DL, Computer vision
+    Python, ML/DL, Nature Language Processing, Analytics, Computer vision
     <p align="left">
       <img src="assets/icons/python.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
       <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;" draggable="false" title="Jupyter Notebook">
@@ -51,21 +57,20 @@
     </p>
 
 * ### Secondary stack
-    Desktop apps, web, UI, API, embedded
+    SQL, Desktop apps, web, UI, API, embedded
     <p align="left">
       <img src="assets/icons/c-plusplus.svg" width=35px style="padding-right:5px;" draggable="false" title="C++">
-      <img src="assets/icons/javascript.svg" width=35px style="padding-right:5px;" draggable="false" title="Javascript">    
+      <img src="assets/icons/c.svg" width=35px style="padding-right:5px;" draggable="false" title="Javascript">    
       <img src="assets/icons/qt.svg" width=35px style="padding-right:5px;" draggable="false" title="Qt">
       <img src="assets/icons/html-5.svg" width=35px style="padding-right:5px;" draggable="false" title="HTML">
       <img src="assets/icons/css-3.svg" width=35px style="padding-right:5px;" draggable="false" title="CSS">
-      <img src="assets/icons/graphql.svg" width=35px style="padding-right:5px;" draggable="false" title="GraphQL">
+      <img src="assets/icons/kubernetes.svg" width=35px style="padding-right:5px;" draggable="false" title="GraphQL">
       <img src="assets/icons/fastapi.svg" width=35px style="padding-right:5px;" draggable="false" title="FastAPI">
-      <img src="assets/icons/arduino.svg" width=40px style="padding-right:5px;" draggable="false" title="Arduino">
   </p>
 
 
 * ### Other
-    CI/CD, Automatization, Scripting, SQL
+    CI/CD, Automatization, Scripting, 
     <p align="left">
       <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
       <img src="assets/icons/mercurial.svg" width=35px style="padding-right:5px;" draggable="false" title="Mercurial">
@@ -78,13 +83,11 @@
 
 
 # <a id="projects" href="#projects">🧩 Open source projects </a>
-* **[Neural networks course](https://github.com/EPC-MSU/EduNet-lectures)** - NN course for postgraduate MSU students
-* **[Faculty application](https://github.com/profcomff)** - Timetable, printers, lectures, bots, services
-* **[EPC-MSU/epdetection](https://github.com/EPC-MSU/epdetection)** - Module to detect PCB components by neural network
-* **[Monitoring API](https://github.com/SmartThinksDIY/DHT11-api)** - API Server for collect data from measurements devices
-* **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Chrome extension for newtab
-* **[Github Issue Telegram Bot](https://github.com/annndruha/issue-github-telegram-bot)** - Bot for creation GitHub issue straight from Telegram group chat
+* **[ML MIPT course]([https://github.com/EPC-MSU/EduNet-lectures](https://github.com/HCL-271/ml-course-Fall-))** - курс МФТИ по машинному обучению, его редакция и доработка
+* **[Подсчёт времени вычисления вектора PageRank](https://github.com/HCL-271/Page_rank)** - Научная работа по оптимизации времени вычисления вектоар Pagerank
+* **[Stock_Price_Prediction](https://github.com/HCL-271/Stock_Price_Prediction)** - Проект по предсказанию цен акций различными способами, а также сравнение их эффективности. Выступление на научной конференции
+* **[File System course](https://github.com/HCL-271/filesystems-101-exercises)** - Курс по файловым системама
 
 # <a id="contacts" href="#contacts">📧 Contacts</a>
-* Mail: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
-* Profile on [Github](https://github.com/Annndruha)
+* Mail: [kovrizhnykh.diu@phystech.edu](mailto:kovrizhnykh.diu@phystech.edu)
+* Profile on [Github](https://github.com/HCL-271/HCL-271.github.io/tree/main)
