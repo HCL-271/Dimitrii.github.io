@@ -9,7 +9,7 @@ Launch your resume site without server on github pages! Optional need a domain n
     * `cv` -> `<you_nickname>.github.io`
   * Open fork repository settings
   * Go to `Pages/Custom domain` enter you `cv.<example.com>` (And enforce HTTPS)
-  * Change [CNAME-file](https://github.com/annndruha/annndruha.github.io/blob/main/CNAME) in fork with your subdomain: `cv.<example.com>`
+  * Change [CNAME-file](https://github.com/HCL-271/HCL-271.github.io/blob/main/CNAME) in fork with your subdomain: `cv.<example.com>`
 * Change left side with your information via [_config.yml](./_config.yml) like this:
   ```yaml
   fullname: Dmitrii Kovrizhnukh
@@ -23,7 +23,7 @@ Launch your resume site without server on github pages! Optional need a domain n
   
   show_contacts: true # Show block with buttons
   mailto: kovrizhnykh.diu@phystech.edu
-  cv_pdf_link: https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/Kovrizhnykh.pdf
+  cv_pdf_link: [Resume_CV](https://github.com/HCL-271/HCL-271.github.io/edit/main/pdf/Dmitrii Kovrizhnukh.pdf)
   
   # Don't change this
   remote_theme: annndruha/minimal-resume
