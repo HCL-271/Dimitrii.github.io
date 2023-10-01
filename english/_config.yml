@@ -1,0 +1,17 @@
+fullname: Dmitrii Kovrizhnukh
+favicon: /assets/images/favicon.svg
+logo: /assets/images/ebA-_ztGqQk.jpg
+
+
+show_info: true
+age: 22 y.o.
+location: Russia
+language: Russian, English, ein bißchen Deutsch
+
+show_contacts: true
+mailto: mailto:kovrizhnykh.diu@phystech.edu
+cv_pdf_link: https://github.com/HCL-271/HCL-271.github.io/blob/main/pdf/hcl-271_github_io_.pdf
+
+remote_theme: annndruha/minimal-resume
+plugins:
+- jekyll-remote-theme
