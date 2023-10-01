@@ -22,7 +22,7 @@ Launch your resume site without server on github pages! Optional need a domain n
   language: Russian, English, ein bißchen Deutsch
   
   show_contacts: true # Show block with buttons
-  mailto: kovrizhnykh.diu@phystech.edu
+  mailto: mailto:kovrizhnykh.diu@phystech.edu
   cv_pdf_link: [Resume_CV](https://github.com/HCL-271/HCL-271.github.io/edit/main/pdf/Dmitrii Kovrizhnukh.pdf)
   
   # Don't change this
