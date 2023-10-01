@@ -3,43 +3,43 @@
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience 3 years</a>
 * ### Junior analyst and Data Scientist
-   * Cентябрь 2022 ‑ Настоящее время
-   * КонсультантПлюс
+   * September 2022 ‑ Nowdays
+   * [Consultant.ru](https://www.consultant.ru/)
  
-NLP, решение задачи классификации, обобщения и генерации текстов. 
+NLP, solving the problem of text classification, summarization and generation. 
 
-Модификация алгоритмов поиска и сортировки текстов, а также оценка метрик точности, полноты и более комплексных метрик
-оценки. 
+Modification of text retrieval and sorting algorithms, and evaluation of accuracy, completeness, and more comprehensive metrics of
+evaluations. 
 
-Уменьшение числа ошибок классификации файлов. Поддержка внутреннего сервиса для оценки моделей, использования и фильтрации по различным банкам документов.
+Reduction of file classification errors. Support for an internal service for model evaluation, usage, and filtering across different document banks.
 
 
 * ### Junior Python developer
-   * Август 2021 ‑ Август 2023, Part‑time
-   * PrintBox (Самозанятый)
+   * August 2021 ‑ August 2023, Part‑time
+   * PrintBox (Self-worker)
 
-Поддержка работоспособности принтеров на территории кампуса, механизмов оповещения и работы сервера. 
+Keeping campus printers, alerting mechanisms, and server operations up and running. 
 
-Добавление функционала сканирования, уменьшение времени передачи больших файлов и уменьшение числа отказов из‑за
-загруженности
+Adding scanning functionality, reducing transfer times for large files and reducing failures due to the
+congestion
 
 * ### Data Engineer
-   * Октябрь 2020 ‑ Maрт 2022, Part‑time
-   * Acronis (Кафедра МФТИ)
+   * October 2020 ‑ March 2022, Part‑time
+   * Acronis (MIPT Department)
 
 
-Нахождение гипер‑параметров для кластеризации хэш‑сумм файлов, вычисление метрик эффективности (в основном True Positive)
-а также оценка времени кластеризации файлов при различных параметрах.
+Finding hyper-parameters for clustering hash sums of files, calculating performance metrics (mainly True Positive)
+as well as estimating file clustering time under different parameters.
 
-Найдены параметры кластеризации, пропускавшие один вредоносный файл на $10^6$ чистых. Оценка метрик по различным параметрам зараженных файлов и их обнаружения в зависимости от классификатора и баз вирусов
+We found clustering parameters that missed one malicious file by $10^6$ clean. Evaluation of metrics for different parameters of infected files and their detection depending on the classifier and virus databases
 
 # <a id="education" href="#education">🎓 Education</a>
 
-* ### Московский Физико‑Технический Институт (Бакалавриат)
-    (2019-2023, Moscow) Факультет управления и прикладной математики (ФПМИ ПМФ)
+* ### Moscow Institute of Physics and Technology (Bachelor's Degree)
+    (2019-2023, Moscow) Faculty of Management and Applied Mathematics (FPMI PMF)
   
-* ### Московский Физико‑Технический Институт (Магистратура)
-    (2023-2025, Moscow) Физтех-школа прикладных математики и информатики ”Облачные технологии” АТП
+* ### Moscow Institute of Physics and Technology (Master's Degree)
+    (2023-2025, Moscow) Fiztech School of Applied Mathematics and Computer Science "Cloud Technologies" ATP
 
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
@@ -83,10 +83,10 @@ NLP, решение задачи классификации, обобщения 
 
 
 # <a id="projects" href="#projects">🧩 Open source projects </a>
-* **[ML MIPT course](https://github.com/HCL-271/ml-course-Fall-)** - курс МФТИ по машинному обучению, его редакция и доработка
-* **[Подсчёт времени вычисления вектора PageRank](https://github.com/HCL-271/Page_rank)** - Научная работа по оптимизации времени вычисления вектоар Pagerank
-* **[Stock_Price_Prediction](https://github.com/HCL-271/Stock_Price_Prediction)** - Проект по предсказанию цен акций различными способами, а также сравнение их эффективности. Выступление на научной конференции
-* **[File System course](https://github.com/HCL-271/filesystems-101-exercises)** - Курс по файловым системама
+* **[ML MIPT course](https://github.com/HCL-271/ml-course-Fall-)** - MIPT course on machine learning, its revision and finalization
+* **[Calculation time of PageRank vector calculation](https://github.com/HCL-271/Page_rank)** - Research paper on optimization of Pagerank vector calculation time
+* **[Stock_Price_Prediction](https://github.com/HCL-271/Stock_Price_Prediction)** - A project on predicting stock prices by different methods and comparing their performance. Presentation at a scientific conference
+* **[File System course](https://github.com/HCL-271/filesystems-101-exercises)** - A course on file systems
 
 # <a id="contacts" href="#contacts">📧 Contacts</a>
 * Mail: [kovrizhnykh.diu@phystech.edu](mailto:kovrizhnykh.diu@phystech.edu)
