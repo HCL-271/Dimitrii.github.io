@@ -12,18 +12,18 @@ Launch your resume site without server on github pages! Optional need a domain n
   * Change [CNAME-file](https://github.com/annndruha/annndruha.github.io/blob/main/CNAME) in fork with your subdomain: `cv.<example.com>`
 * Change left side with your information via [_config.yml](./_config.yml) like this:
   ```yaml
-  fullname: Andrey Marakulin
+  fullname: Dmitrii Kovrizhnukh
   favicon: /assets/images/favicon.svg
-  logo: /assets/images/photo.png
+  logo: /assets/images/ebA-_ztGqQk.jpg
   
   show_info: true # Show block with information
-  age: 24 y.o.
+  age: 22 y.o.
   location: Moscow, Russia
-  language: Russian, English
+  language: Russian, English, ein bißchen Deutsch
   
   show_contacts: true # Show block with buttons
-  mailto: mailto:annndruha.github@gmail.com
-  cv_pdf_link: https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/cv_pdf.pdf
+  mailto: kovrizhnykh.diu@phystech.edu
+  cv_pdf_link: https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/Kovrizhnykh.pdf
   
   # Don't change this
   remote_theme: annndruha/minimal-resume
