@@ -1,4 +1,5 @@
 # Fork this repo for create your own web CV. ([На русском](https://HCL-271.github.io/)) 
+([English](https://HCL-271.github.io/english/)) 
 Launch your resume site without server on github pages! Optional need a domain name.
 
 # Configuration
