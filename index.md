@@ -73,7 +73,6 @@ NLP, решение задачи классификации, обобщения 
     CI/CD, Automatization, Scripting, 
     <p align="left">
       <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
-      <img src="assets/icons/mercurial.svg" width=35px style="padding-right:5px;" draggable="false" title="Mercurial">
       <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Github">
       <img src="assets/icons/gitlab.svg" width=35px style="padding-right:5px;" draggable="false" title="Gitlab">
       <img src="assets/icons/postgresql.svg" width=35px style="padding-right:5px;" draggable="false" title="PostgreSQL">
