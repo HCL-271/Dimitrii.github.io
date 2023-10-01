@@ -10,7 +10,7 @@ language: Russian, English, ein bißchen Deutsch
 
 show_contacts: true
 mailto: mailto:kovrizhnykh.diu@phystech.edu
-cv_pdf_link: https://github.com/HCL-271/HCL-271.github.io/blob/main/pdf
+cv_pdf_link: https://github.com/HCL-271/HCL-271.github.io/blob/main/pdf/hcl-271_github_io_ (1).pdf
 
 
 remote_theme: annndruha/minimal-resume
