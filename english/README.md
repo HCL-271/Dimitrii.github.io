@@ -10,7 +10,7 @@ Launch your resume site without server on github pages! Optional need a domain n
   * Open fork repository settings
   * Go to `Pages/Custom domain` enter you `cv.<example.com>` (And enforce HTTPS)
   * Change [CNAME-file](https://github.com/HCL-271/HCL-271.github.io/blob/main/CNAME) in fork with your subdomain: `cv.<example.com>`
-* Change left side with your information via [_config.yml](./_config.yml) like this:
+* Change left side with your information via [_config.yml](./_config_eng.yml) like this:
   ```yaml
   fullname: Dmitrii Kovrizhnukh
   favicon: /assets/images/favicon.svg
@@ -30,13 +30,13 @@ Launch your resume site without server on github pages! Optional need a domain n
   plugins:
   - jekyll-remote-theme
   ```
-* Change [index.md](./index.md) with you information
+* Change [index.md](./english/index.md) with you information
 * Change `/assets/images/photo.png` and pdf link
 * Wait a minute for GitHub-actions auto build and enjoy your site 😋!
 
 
 # Extra
 
-This site required page theme [minimal-resume](https://github.com/Annndruha/minimal-resume) which is in the [_config.yml](./_config.yml) as remote_theme.
+This site required page theme [minimal-resume](https://github.com/Annndruha/minimal-resume) which is in the [_config.yml](./english/_config_eng.yml) as remote_theme.
 
 Site hasn't got a pdf converter, manually update the pdf file: [cv_pdf.pdf](https://github.com/HCL-271/HCL-271.github.io/blob/main/pdf/Dmitrii%20Kovrizhnukh.pdf)
