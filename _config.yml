@@ -7,6 +7,7 @@ show_info: true
 age: 22 y.o.
 location: Russia
 language: Russian, English, ein bißchen Deutsch
+phone number: 89119675178
 
 show_contacts: true
 mailto: mailto:kovrizhnykh.diu@phystech.edu
