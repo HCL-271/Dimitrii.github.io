@@ -5,7 +5,12 @@
 * ### Junior analyst and Data Scientist
    * September 2022 ‑ Nowdays
    * #### [Consultant.ru](https://www.consultant.ru/)
- 
+   * 
+Reduced the number of search arguments not returned by 20%
+
+I created a service for issuing answers to user requests, models and text banks, after which I transferred them to containers and successfully support them.
+
+
 NLP, solving the problem of text classification, summarization and generation. 
 
 Modification of text retrieval and sorting algorithms, and evaluation of accuracy, completeness, and more comprehensive metrics of
@@ -17,6 +22,12 @@ Reduction of file classification errors. Support for an internal service for mod
 * ### Junior Python developer
    * August 2021 ‑ August 2023, Part‑time
    * #### PrintBox (Self-worker)
+   * 
+Maintained server up-time at 97%, which was the best result among departments. 
+
+Reduced the number of failures during peak load by 1.7 times. 
+
+Implemented functionality for loading scans and printing them.
 
 Keeping campus printers, alerting mechanisms, and server operations up and running. 
 
@@ -26,7 +37,8 @@ congestion
 * ### Data Engineer
    * October 2020 ‑ March 2022, Part‑time
    * #### Acronis (MIPT Department)
-
+I created file hashing algorithms and achieved an accuracy of 1 infected per 100,000 files, given their similarity.
+Increased the speed of transferring backups between the server and client by 30%
 
 Finding hyper-parameters for clustering hash sums of files, calculating performance metrics (mainly True Positive)
 as well as estimating file clustering time under different parameters.
