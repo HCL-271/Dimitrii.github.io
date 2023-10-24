@@ -4,7 +4,7 @@
 # <a id="works" href="#works">👨🏻‍💻 Work experience 3 years</a>
 * ### Junior analyst and Data Scientist
    * September 2022 ‑ Nowdays
-   * [Consultant.ru](https://www.consultant.ru/)
+   * #### [Consultant.ru](https://www.consultant.ru/)
  
 NLP, solving the problem of text classification, summarization and generation. 
 
@@ -16,7 +16,7 @@ Reduction of file classification errors. Support for an internal service for mod
 
 * ### Junior Python developer
    * August 2021 ‑ August 2023, Part‑time
-   * PrintBox (Self-worker)
+   * #### PrintBox (Self-worker)
 
 Keeping campus printers, alerting mechanisms, and server operations up and running. 
 
@@ -25,7 +25,7 @@ congestion
 
 * ### Data Engineer
    * October 2020 ‑ March 2022, Part‑time
-   * Acronis (MIPT Department)
+   * #### Acronis (MIPT Department)
 
 
 Finding hyper-parameters for clustering hash sums of files, calculating performance metrics (mainly True Positive)
