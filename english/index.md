@@ -5,7 +5,7 @@
 * ### Junior analyst and Data Scientist
    * September 2022 ‑ Nowdays
    * #### [Consultant.ru](https://www.consultant.ru/)
-   * 
+  
 Reduced the number of search arguments not returned by 20%
 
 I created a service for issuing answers to user requests, models and text banks, after which I transferred them to containers and successfully support them.
@@ -22,7 +22,7 @@ Reduction of file classification errors. Support for an internal service for mod
 * ### Junior Python developer
    * August 2021 ‑ August 2023, Part‑time
    * #### PrintBox (Self-worker)
-   * 
+  
 Maintained server up-time at 97%, which was the best result among departments. 
 
 Reduced the number of failures during peak load by 1.7 times. 
