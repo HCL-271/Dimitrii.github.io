@@ -1,7 +1,7 @@
 <a style="display:none;">Коврижных Дмитрий Резюме</a>
 
 
-# <a id="works" href="#works">👨🏻‍💻 Опыт работы 3 years</a>
+# <a id="works" href="#works">👨🏻‍💻 Опыт работы 3 года</a>
 * ### Младший аналитик данных (Junior analyst and Data Scientist)
    * Cентябрь 2022 ‑ Настоящее время
    * #### КонсультантПлюс
