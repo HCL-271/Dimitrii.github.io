@@ -2,7 +2,7 @@
 
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience 3 years</a>
-* ### Junior analyst and Data Scientist
+* ### Analyst and Data Scientist
    * September 2022 ‑ Nowdays
    * #### [Consultant.ru](https://www.consultant.ru/)
   
@@ -19,7 +19,7 @@ evaluations.
 Reduction of file classification errors. Support for an internal service for model evaluation, usage, and filtering across different document banks.
 
 
-* ### Junior Python developer
+* ### Python developer
    * August 2021 ‑ August 2023, Part‑time
    * #### PrintBox (Self-worker)
   
